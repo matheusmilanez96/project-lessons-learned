@@ -11,6 +11,12 @@ body {
     position: fixed;
 }
 
+#minha_foto{
+    margin: 25px;
+    padding: 5px;
+    border: 50px;
+}
+
 .visuallyhidden {
     display: none;
 }
