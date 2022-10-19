@@ -1,32 +1,32 @@
 body {
-    background-color: rgb(253, 251, 251);
-    font-size: 16px;
-    color: teal;
-    line-height: 20px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(253, 251, 251);
+  font-size: 16px;
+  color: teal;
+  line-height: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #cabecalho {
-    top: 0;
-    position: fixed;
+  top: 0;
+  position: fixed;
 }
 
-#minha_foto{
-    margin: 25px;
-    padding: 5px;
-    border: 50px;
+#minha_foto {
+  margin: 25px;
+  padding: 5px;
+  border: 50px;
 }
 
 .visuallyhidden {
-    display: none;
+  display: none;
 }
 
 .lado-esquerdo {
-    float: left;
-    width: 50%;
+  float: left;
+  width: 50%;
 }
 
 .lado-direito {
-    width: 40%;
-    float: right;
+  width: 40%;
+  float: right;
 }
